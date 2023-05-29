@@ -9,3 +9,5 @@ git --no-merged
 git -r --merged
 git -r --no-merged
 ```
+
+`git remote prune origin` delete stale remote tracking brunches
