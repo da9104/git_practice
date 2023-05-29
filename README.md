@@ -1,1 +1,1 @@
-## This repo is for practicing github feature that is merging, brunching log etc.
+### This repo is for practicing github features that is like merging, brunching, log etc.
